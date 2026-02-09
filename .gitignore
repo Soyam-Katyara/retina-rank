@@ -3,8 +3,6 @@ node_modules/
 __pycache__/
 *.pyc
 
-# Environment files (contain API keys)
-.env
 
 # Build output
 dist/
