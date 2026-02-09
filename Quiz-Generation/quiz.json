@@ -1,0 +1,72 @@
+[
+  {
+    "Question number": 1,
+    "Question": "What is the size of the empty string (λ)?",
+    "Question type": "MCQ",
+    "Option 1": "1",
+    "Option 2": "0",
+    "Option 3": "Undefined",
+    "Option 4": "λ"
+  },
+  {
+    "Question number": 2,
+    "Question": "Which of the following strings belongs to the language L = {aⁿbⁿ : n ≥ 0}?",
+    "Question type": "MCQ",
+    "Option 1": "abb",
+    "Option 2": "aabb",
+    "Option 3": "aaabb",
+    "Option 4": "abab"
+  },
+  {
+    "Question number": 3,
+    "Question": "What does ∑* represent given an alphabet ∑?",
+    "Question type": "MCQ",
+    "Option 1": "The set of all strings of length 1 from ∑.",
+    "Option 2": "The set of all possible strings from ∑, including the null string.",
+    "Option 3": "The set of all strings from ∑ that do not contain the null string.",
+    "Option 4": "The set of all strings of even length from ∑."
+  },
+  {
+    "Question number": 4,
+    "Question": "If w = 'racecar', what is wᴿ?",
+    "Question type": "MCQ",
+    "Option 1": "racecar",
+    "Option 2": "recacar",
+    "Option 3": "racecarR",
+    "Option 4": "ecarcar"
+  },
+  {
+    "Question number": 5,
+    "Question": "What is the result of concatenating the string 'hello' and 'world'?",
+    "Question type": "MCQ",
+    "Option 1": "helloworld",
+    "Option 2": "worldhello",
+    "Option 3": "hello world",
+    "Option 4": "helloworl"
+  },
+  {
+    "Question number": 6,
+    "Question": "Define what a language is in the context of computer science, based on the provided notes.",
+    "Question type": "Subjective"
+  },
+  {
+    "Question number": 7,
+    "Question": "Explain the concept of Kleene's Closure (∑*) with an example.",
+    "Question type": "Subjective"
+  },
+  {
+    "Question number": 8,
+    "Question": "What is the length of the string 'aaabbbaabab'?",
+    "Question type": "Subjective"
+  },
+  {
+    "Question number": 9,
+    "Question": "Describe the operation of language concatenation (L₁L₂).",
+    "Question type": "Subjective"
+  },
+  {
+    "Question number": 10,
+    "Question": "What is the difference between ∑* and ∑⁺?",
+    "Question type": "Subjective"
+  }
+]

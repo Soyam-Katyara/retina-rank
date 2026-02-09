@@ -1,0 +1,42 @@
+[
+  {
+    "Question number": 1,
+    "Answer": "0"
+  },
+  {
+    "Question number": 2,
+    "Answer": "aabb"
+  },
+  {
+    "Question number": 3,
+    "Answer": "The set of all strings of even length from ∑."
+  },
+  {
+    "Question number": 4,
+    "Answer": "ecarcar"
+  },
+  {
+    "Question number": 5,
+    "Answer": "helloworl"
+  },
+  {
+    "Question number": 6,
+    "Answer": "i don't know"
+  },
+  {
+    "Question number": 7,
+    "Answer": "it is a notation to denote every possible word that can be created with the alphabet in the given set"
+  },
+  {
+    "Question number": 8,
+    "Answer": "11"
+  },
+  {
+    "Question number": 9,
+    "Answer": "every alphabet of l1 will be concat with every alphabet of l2 with specific sequence: l1l2."
+  },
+  {
+    "Question number": 10,
+    "Question type": "i don't know"
+  }
+]

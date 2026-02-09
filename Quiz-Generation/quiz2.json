@@ -1,0 +1,72 @@
+[
+  {
+    "Question number": 1,
+    "Question": "Which graph traversal algorithm explores as far as possible along each branch before backtracking?",
+    "Question type": "MCQ",
+    "Option 1": "Breadth-First Search (BFS)",
+    "Option 2": "Depth-First Search (DFS)",
+    "Option 3": "Dijkstra's Algorithm",
+    "Option 4": "Prim's Algorithm"
+  },
+  {
+    "Question number": 2,
+    "Question": "What data structure is typically used to implement Breadth-First Search (BFS)?",
+    "Question type": "MCQ",
+    "Option 1": "Stack",
+    "Option 2": "Queue",
+    "Option 3": "Heap",
+    "Option 4": "Array"
+  },
+  {
+    "Question number": 3,
+    "Question": "In Depth-First Search (DFS), what is the primary mechanism for keeping track of visited nodes and the path taken?",
+    "Question type": "MCQ",
+    "Option 1": "Queue",
+    "Option 2": "Priority Queue",
+    "Option 3": "Stack (explicit or implicit via recursion)",
+    "Option 4": "Hash Table"
+  },
+  {
+    "Question number": 4,
+    "Question": "Which of the following is a common application of Breadth-First Search (BFS)?",
+    "Question type": "MCQ",
+    "Option 1": "Finding the shortest path in an unweighted graph",
+    "Option 2": "Topological sorting",
+    "Option 3": "Detecting cycles in a directed graph",
+    "Option 4": "Solving the N-Queens problem"
+  },
+  {
+    "Question number": 5,
+    "Question": "What is the main difference in the exploration strategy between DFS and BFS?",
+    "Question type": "MCQ",
+    "Option 1": "DFS explores level by level, BFS explores deeply.",
+    "Option 2": "DFS uses a queue, BFS uses a stack.",
+    "Option 3": "DFS explores deeply along a path before backtracking, BFS explores neighbors level by level.",
+    "Option 4": "Both algorithms explore nodes in the same order."
+  },
+  {
+    "Question number": 6,
+    "Question": "Explain the core principle of Depth-First Search (DFS) in graph traversal.",
+    "Question type": "Subjective"
+  },
+  {
+    "Question number": 7,
+    "Question": "Describe how Breadth-First Search (BFS) explores a graph, mentioning the data structure used.",
+    "Question type": "Subjective"
+  },
+  {
+    "Question number": 8,
+    "Question": "What is the time complexity of DFS and BFS on a graph represented by an adjacency list, assuming V vertices and E edges?",
+    "Question type": "Subjective"
+  },
+  {
+    "Question number": 9,
+    "Question": "Provide an example scenario where DFS would be more suitable than BFS, and justify your choice.",
+    "Question type": "Subjective"
+  },
+  {
+    "Question number": 10,
+    "Question": "Provide an example scenario where BFS would be more suitable than DFS, and justify your choice.",
+    "Question type": "Subjective"
+  }
+]
