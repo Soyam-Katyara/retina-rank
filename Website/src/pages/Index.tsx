@@ -122,7 +122,7 @@ const Index = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-3xl font-bold mb-6">
-                Why Choose <span className="text-gradient">Telly</span>?
+                Why Choose <span className="text-gradient">Retina Rank</span>?
               </h2>
               <p className="text-muted-foreground mb-8">
                 Designed for educators, trainers, and anyone who wants to create 
@@ -168,7 +168,7 @@ const Index = () => {
             Ready to Get Started?
           </h2>
           <p className="text-lg opacity-90 mb-8 max-w-xl mx-auto">
-            Join thousands of educators using Telly to create smarter assessments.
+            Join thousands of educators using Retina Rank to create smarter assessments.
           </p>
 
         </div>

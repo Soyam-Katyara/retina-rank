@@ -1,4 +1,7 @@
-const API_BASE = `http://${window.location.hostname}:8000/api`;
+const API_BASE = import.meta.env.VITE_API_URL
+  || (import.meta.env.PROD
+    ? 'https://retina-rank-api.onrender.com/api'
+    : `http://${window.location.hostname}:8000/api`);
 
 export const api = {
   async convertFile(file: File): Promise<{ markdown: string }> {

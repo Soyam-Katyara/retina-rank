@@ -172,7 +172,7 @@ const Signup = () => {
             Start Your Journey
           </h1>
           <p className="text-lg opacity-90 mb-8 max-w-md">
-            Join thousands of educators and learners using Telly for smarter assessments.
+            Join thousands of educators and learners using Retina Rank for smarter assessments.
           </p>
           
           <div className="space-y-4">

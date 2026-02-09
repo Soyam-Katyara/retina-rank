@@ -27,7 +27,7 @@ export const Logo = ({ size = 'md', showText = true, className }: LogoProps) => 
       </div>
       {showText && (
         <span className={cn('font-bold tracking-tight text-foreground', textSizes[size])}>
-          Telly
+          Retina Rank
         </span>
       )}
     </div>

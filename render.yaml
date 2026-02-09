@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: retina-rank-api
+    runtime: python
+    rootDir: .
+    buildCommand: pip install -r backend/requirements-deploy.txt
+    startCommand: cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: PYTHON_VERSION
+        value: "3.12"
