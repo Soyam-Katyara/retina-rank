@@ -1,6 +1,6 @@
 const API_BASE = import.meta.env.VITE_API_URL
   || (import.meta.env.PROD
-    ? 'https://retina-rank-api.onrender.com/api'
+    ? 'https://regular-roslyn-sukkur-iba-1801acae.koyeb.app/api'
     : `http://${window.location.hostname}:8000/api`);
 
 export const api = {
