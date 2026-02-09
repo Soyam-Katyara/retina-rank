@@ -76,7 +76,7 @@ def call_gemini(prompt: str) -> str:
     client = get_gemini_client()
 
     response = client.models.generate_content(
-        model="gemini-2.5-flash-lite",
+        model="gemini-3-flash-preview",
         contents=prompt,
         config=GenerateContentConfig(
             temperature=0.2,

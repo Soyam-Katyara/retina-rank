@@ -84,7 +84,7 @@ def _build_prompt_from_template(
 def evaluate_quiz(
     inputs: ContentInputs,
     prompt_template_path: Path | None = None,
-    model_name: str = "gemini-2.5-flash-lite",
+    model_name: str = "gemini-3-flash-preview",
 ) -> EvaluationResult:
     """
     Evaluate the user's quiz attempt using Gemini 3 Pro Preview.
